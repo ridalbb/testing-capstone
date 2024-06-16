@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Clean Rubbish</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="landing">Landing</string>
+    <string name="landing_welcome_msg">Welcome to\nC-Rub</string>
+    <string name="landing_caption_msg">Welcome to C-Rub, the best, easiest, and most effective solution for identifying and managing waste with our app. Together with C-Rub, let\'s create a cleaner and greener environment!</string>
+    <string name="landing_second_welcome_msg">Identify Your \nWaste</string>
+    <string name="landing_second_caption_msg">With this application, you can easily identify the various types of waste you have. We will provide the best recommendations that are suitable for you, so that you can manage waste more effectively and environmentally friendly.</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_msg">Let\'s Register Your \nAccount</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="login_msg">Welcome Back!</string>
+    <string name="login_validation_msg">Don’t have an account yet?</string>
+    <string name="register_here">Register Here</string>
+    <string name="login_here">Login Here\n</string>
+    <string name="register_validation_msg">Already have an account?</string>
+
+    <string name="main_welcome_msg">Hello, Rosad</string>
+    <string name="scan_trash">Scan your trash here!</string>
+    <string name="main">Main</string>
+    <string name="ic_history">History</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="scan_now">Scan now!</string>
+
+    <string name="article">Article</string>
+    <string name="title_article">Title Article</string>
+    <string name="description_article">Description Article</string>
+
+    <string name="result_scan">Result Scan</string>
+    <string name="score">Score</string>
+    <string name="recommendation">Recommendation for you</string>
+
+    <string-array name="data_photo">
+        <item>@drawable/organic_waste</item>
+        <item>@drawable/non_organic_waste</item>
+    </string-array>
+    <string-array name="data_title">
+        <item>Organic Waste</item>
+        <item>Non-Organic Waste</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            1. What is Organic Waste?\n
+            The definition of organic waste is waste that comes from the
+            remains of living creatures, whether animals, plants or humans.
+            Basically, this type of waste can decompose naturally in nature
+            and can also be used for other things, such as compost and others.\n\n
+
+            2. Wet &amp; Dry Types of Organic Waste\n
+            Organic waste can be further divided into two types,
+            namely dry and wet organic waste. Types of dry organic waste have little
+            to no water content, for example tree branches, dry leaves, bones, etc.
+            Wet organic waste has a fairly high water content, making it decompose
+            more quickly and can decompose more quickly than dry waste.
+            Examples of wet organic waste are leftover vegetables, fruit, etc.\n\n
+
+            3. What are the types of organic waste?\n
+            Apart from dry and wet, organic waste is divided into 5 types
+            of waste based on its source. The five categories are:\n
+
+            - Food Waste\n
+            Organic food waste is generally generated at the household level,
+            as well as in food businesses, such as restaurants and cafes.
+            The composition includes all types of food and ingredients,
+            starting from egg shells, vegetable tubers, fruit peels,
+            fish and chicken bones, leftover food, as well as other
+            materials that have been consumed or are no longer consumed.
+            Food waste also includes cooked food that is not finished or
+            consumed, such as rotten fruit and vegetables.\n
+
+            - Garden Waste\n
+            Organic waste that comes from gardens is waste whose material
+            comes from gardens or yards, such as leaves, trees, twigs
+            and grass left over from pruning.\n
+
+            - Agricultural/Farming Waste\n
+            Agricultural waste is waste resulting from processing plants,
+            such as corn stalks, rice husks and leaves. These agricultural
+            residues can usually be processed into compost.\n
+
+            - Livestock waste\n
+            Waste from livestock, such as cow and goat dung, is also included in the organic waste category.\n
+
+            - Waste from Body Parts\n
+            The body parts in question include nail clippings and fallen human hair as well as fur or skin from animals.
+        </item>
+        <item>Rp1.049.000</item>
+    </string-array>
+
+
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="next">Next</string>
+
+    <string name="profile">Profile</string>
+    <string name="fill_form">Fill In The \nForm</string>
+
+    <string name="detail_title_article">Detail Title Article</string>
+    <string name="detail_article_description">Detail Article Description</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_img_warning">Please enter an image first</string>
+    <string name="empty_message">There is no data</string>
+    <string name="recommendation_msg">Throw your rubbish into this type of rubbish bin</string>
+</resources>
