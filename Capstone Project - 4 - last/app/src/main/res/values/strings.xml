@@ -4,11 +4,17 @@
     <string name="title_history">History</string>
     <string name="title_profile">Profile</string>
 
+    <string name ="title_app">C-Rub</string>
+    <string name="slogan">Together for a Cleaner\nGreener Future!</string>
+    <string name="greetwelcome">Get Started</string>
     <string name="landing">Landing</string>
     <string name="landing_welcome_msg">Welcome to\nC-Rub</string>
-    <string name="landing_caption_msg">Welcome to C-Rub, the best, easiest, and most effective solution for identifying and managing waste with our app. Together with C-Rub, let\'s create a cleaner and greener environment!</string>
-    <string name="landing_second_welcome_msg">Identify Your \nWaste</string>
-    <string name="landing_second_caption_msg">With this application, you can easily identify the various types of waste you have. We will provide the best recommendations that are suitable for you, so that you can manage waste more effectively and environmentally friendly.</string>
+    <string name="landing_welcome_caption_msg">Welcome to C-Rub, the best, easiest, and \n effective solution for identifying and managing\n waste with our app. Together with C-Rub \nlet\'s create a cleaner and greener environment!</string>
+    <string name="landing_first_welcome_msg">Identify Your \nWaste</string>
+    <string name="landing_first_caption_msg">With this application, you can easily identify\n the various types of waste you have.
+        We will provide\n the best recommendations that are suitable for you\n so that you can manage more effectively\n and environmentally friendly.</string>
+    <string name="landing_second_welcome_msg">Manage\n the waste</string>
+    <string name="landing_second_caption_msg">Use our application to manage your waste better.\n Get guidance and advice on how to recycle, reduce,\n and dispose of waste in the most responsible way.\n With proper management, we can keep our environment\n clean and support the sustainability of our planet.</string>
 
     <string name="login">Login</string>
     <string name="register">Register</string>
@@ -16,6 +22,7 @@
     <string name="name">Name</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="greetform">Lets Go</string>
 
     <string name="login_msg">Welcome Back!</string>
     <string name="login_validation_msg">Don’t have an account yet?</string>
@@ -23,7 +30,7 @@
     <string name="login_here">Login Here\n</string>
     <string name="register_validation_msg">Already have an account?</string>
 
-    <string name="main_welcome_msg">Hello, Rosad</string>
+    <string name="main_welcome_msg">Ridwan</string>
     <string name="scan_trash">Scan your trash here!</string>
     <string name="main">Main</string>
     <string name="ic_history">History</string>
@@ -110,4 +117,7 @@
     <string name="empty_img_warning">Please enter an image first</string>
     <string name="empty_message">There is no data</string>
     <string name="recommendation_msg">Throw your rubbish into this type of rubbish bin</string>
+
+
+
 </resources>
